@@ -48,20 +48,6 @@ const styles = StyleSheet.create({
     padding: 20,
     backgroundColor: '#7e7e7e',
   },
-  noteItem: {
-    flex: 4,
-    justifyContent: 'center',
-    flexDirection: 'row',
-    alignItems: 'center',
-    margin: 20,
-    backgroundColor: '#000000',
-    borderRadius: 10,
-  },
-  noteText: {
-    fontWeight: 'bold',
-    fontSize: 25,
-    color: '#ffff',
-  },
   agregarButton: {
     backgroundColor: '#ffff',
     borderRadius: 15,
